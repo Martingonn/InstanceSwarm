@@ -1,0 +1,6 @@
+libvirt-python
+qemu-kvm
+libvirt-daemon
+libvirt-clients
+virt-manager
+
